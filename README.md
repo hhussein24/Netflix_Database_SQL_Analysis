@@ -18,34 +18,49 @@ This project demonstrates my ability to work with real-world datasets, uncover t
 
 ## Objectives
 
-Content Distribution & Trends
-Assess the balance between movies and TV shows, identifying content type trends over time.
-Analyze the growth of content additions from 2010 to the present, highlighting peak production years.
-Determine the top-producing countries and their contribution to Netflix’s global library.
-Genre & Audience Insights
-Identify the most popular genres and their prevalence in different regions.
-Examine content ratings to understand audience segmentation across age groups.
-Compare the distribution of documentary vs. non-documentary content across different countries.
-Content Duration & Viewing Experience
-Analyze the runtime distribution of movies and season counts of TV shows.
-Identify outliers in duration, including the longest and shortest movies or series.
-Investigate whether certain genres tend to have longer or shorter average runtimes.
-Director & Actor Contributions
-Rank directors based on the number of projects they have on the platform.
-Identify the most frequently featured actors across Netflix's content library.
-Explore the impact of renowned directors (e.g., Christopher Nolan) on Netflix’s catalog.
-Market-Specific Analysis
-Determine the top five countries with the highest volume of exclusive content.
-Compare the release patterns of movies and TV shows in the U.S. vs. international markets.
-Analyze trends in content ratings and genre preferences per country.
-Content Categorization & Sentiment Analysis
-Classify content into "Violent" vs. "Non-Violent" based on description keywords.
-Identify common themes and keywords used in content descriptions.
-Explore whether certain ratings (e.g., TV-MA, R) correlate with specific content themes.
-Business & Platform Strategy Insights
-Assess whether Netflix prioritizes quantity over quality by analyzing production trends.
-Investigate the relationship between content release trends and major Netflix business events.
-Explore how regional licensing strategies influence Netflix’s content availability.
+**Content Distribution & Trends
+**
+- Track movie vs. TV show distribution and shifting content trends over time.
+- Analyze content growth since 2010, highlighting peak production years.
+- Identify top-producing countries and their share of Netflix’s library.
+
+**Genre & Audience Insights
+**
+- Determine the most popular genres by region.
+- Examine content ratings to map audience segmentation.
+- Compare documentary vs. non-documentary content distribution.
+
+**Content Duration & Viewing Experience
+**
+  - Analyze movie runtimes and TV show season counts.
+- Identify duration outliers (shortest/longest content).
+- Assess runtime trends by genre.
+
+**Director & Actor Contributions
+**
+- Rank directors by the number of projects on Netflix.
+- Identify frequently featured actors.
+- Explore the impact of renowned directors on the catalog.
+
+**Market-Specific Analysis
+**
+- Identify the top five countries with the most exclusive content.
+- Compare U.S. vs. global release patterns.
+- Analyze country-specific content ratings and genre trends.
+
+**Content Categorization & Sentiment Analysis
+**
+- Classify content as "Violent" vs. "Non-Violent" using keyword analysis.
+- Identify recurring themes in content descriptions.
+- Examine the correlation between ratings (e.g., TV-MA, R) and content themes.
+
+**Business & Platform Strategy Insights
+**
+- Evaluate Netflix’s balance between content quantity and quality.
+- Analyze content release trends alongside major Netflix business events.
+- Assess how regional licensing affects content availability.
+
+Let's begin the project! 🧑‍🔬
 
 
 ## Dataset
