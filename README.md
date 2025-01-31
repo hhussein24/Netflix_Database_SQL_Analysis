@@ -311,11 +311,17 @@ WHERE
 ### Conclusion
 
 ✔ Netflix prioritizes movies over TV shows, favoring high-engagement genres like drama, documentary, and comedy.
+
 ✔ The U.S., India, and the U.K. drive Netflix’s content supply, influencing global streaming trends.
+
 ✔ Short-form content dominates, reinforcing Netflix’s binge-watch culture and quick engagement strategy.
+
 ✔ Mature-rated content (TV-MA, TV-14) is most common, showing Netflix’s focus on adult-oriented entertainment.
+
 ✔ Recognizable actors and directors drive popularity, confirming Netflix’s reliance on star-driven content marketing.
+
 ✔ Documentaries and reality TV have a decentralized production model, which explains why many titles lack credited directors.
+
 ✔ Netflix's content decisions align with audience retention strategies, favoring crime, action, and thrillers to maintain viewer interest.
 
 
