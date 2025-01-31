@@ -4,10 +4,15 @@
 This project is designed to demonstrate my expertise in SQL by analyzing Netflix's content library using advanced database queries and analytical techniques. Through this analysis, I showcase:
 
 ✅ SQL Proficiency – Implementing CRUD operations, filtering, aggregation, and complex analytical queries to extract meaningful insights.
+
 ✅ Data Cleaning & Transformation – Utilizing functions like UNNEST(), STRING_TO_ARRAY(), and SPLIT_PART() to structure and clean raw data effectively.
+
 ✅ Analytical Thinking – Identifying key trends in content production, actor appearances, and content categorization to provide strategic insights.
+
 ✅ Advanced SQL Functions – Leveraging window functions (RANK()), CTEs (WITH), date conversions (TO_DATE()), and conditional logic (CASE) to enhance data analysis.
+
 ✅ Business-Relevant Insights – Extracting valuable information on content distribution, ratings, and market trends, aligning data findings with business decision-making.
+
 
 This project demonstrates my ability to work with real-world datasets, uncover trends, and provide actionable insights using SQL, making it a strong addition to my data analytics portfolio. 🚀
 
