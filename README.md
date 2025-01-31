@@ -36,26 +36,26 @@ This project demonstrates my ability to work with real-world datasets, uncover t
 - Identify duration outliers (shortest/longest content).
 - Assess runtime trends by genre.
 
-**Director & Actor Contributions
-**
+### Director & Actor Contributions
+
 - Rank directors by the number of projects on Netflix.
 - Identify frequently featured actors.
 - Explore the impact of renowned directors on the catalog.
 
-**Market-Specific Analysis
-**
+### Market-Specific Analysis
+
 - Identify the top five countries with the most exclusive content.
 - Compare U.S. vs. global release patterns.
 - Analyze country-specific content ratings and genre trends.
 
-**Content Categorization & Sentiment Analysis
-**
+### Content Categorization & Sentiment Analysis
+
 - Classify content as "Violent" vs. "Non-Violent" using keyword analysis.
 - Identify recurring themes in content descriptions.
 - Examine the correlation between ratings (e.g., TV-MA, R) and content themes.
 
-**Business & Platform Strategy Insights
-**
+### Business & Platform Strategy Insights
+
 - Evaluate Netflix’s balance between content quantity and quality.
 - Analyze content release trends alongside major Netflix business events.
 - Assess how regional licensing affects content availability.
