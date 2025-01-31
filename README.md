@@ -102,7 +102,8 @@ GROUP BY type;
 
 ### 2. What is the most frequent rating for Movies and TV Shows separately?
 
-this code showcases a ranking system of all the ratings and types
+**This code showcases a ranking system of all the ratings and types
+**
 ```sql
 SELECT 
 type,
