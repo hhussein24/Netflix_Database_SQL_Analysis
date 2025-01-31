@@ -281,26 +281,35 @@ WHERE
 
 ## Findings and Conclusion
 
-1. Content Distribution & Trends
-Netflix's library is movie-heavy, with films outnumbering TV shows.
-Content production peaked between 2015 and 2020, aligning with Netflix’s global expansion.
-The United States, India, and the United Kingdom produce the highest volume of content.
-2. Genre & Audience Preferences
-Drama, Documentary, and Comedy are the most popular genres.
-TV-MA and TV-14 are the most frequent content ratings, indicating a preference for mature audiences.
-A large share of documentaries originates from the U.S. and U.K., reflecting strong consumer demand for factual content.
-3. Content Duration & Viewing Patterns
-The longest movies on Netflix significantly exceed the average runtime.
-TV shows with three or more seasons are rare, suggesting many series are short-lived or designed as limited series.
-4. Director & Actor Contributions
-Christopher Nolan and other high-profile directors have a limited but impactful presence on Netflix.
-Action, thriller, and drama actors appear frequently, suggesting these genres are key to audience engagement.
-5. Business & Platform Strategy
-Many Netflix titles lack a listed director, particularly in documentaries and reality TV.
-Content growth peaked before the pandemic, but Netflix had already ramped up its library.
-The U.K. maintains a steady content addition rate, indicating consistent investment.
-Crime and action-oriented content dominate based on a classification of violent vs. non-violent descriptions.
-##Conclusion
+### Findings
+
+1. **Content Distribution & Trends**
+- Netflix's library is movie-heavy, with films outnumbering TV shows.
+- Content production peaked between 2015 and 2020, aligning with Netflix’s global expansion.
+- The United States, India, and the United Kingdom produce the highest volume of content.
+
+2. **Genre & Audience Preferences**
+- Drama, Documentary, and Comedy are the most popular genres.
+- TV-MA and TV-14 are the most frequent content ratings, indicating a preference for mature audiences.
+- A large share of documentaries originates from the U.S. and U.K., reflecting strong consumer demand for factual content.
+
+3. **Content Duration & Viewing Patterns**
+- The longest movies on Netflix significantly exceed the average runtime.
+- TV shows with three or more seasons are rare, suggesting many series are short-lived or designed as limited series.
+
+4. **Director & Actor Contributions**
+- Christopher Nolan and other high-profile directors have a limited but impactful presence on Netflix.
+- Action, thriller, and drama actors appear frequently, suggesting these genres are key to audience engagement.
+
+5. **Business & Platform Strategy**
+
+- Many Netflix titles lack a listed director, particularly in documentaries and reality TV.
+- Content growth peaked before the pandemic, but Netflix had already ramped up its library.
+- The U.K. maintains a steady content addition rate, indicating consistent investment.
+- Crime and action-oriented content dominate based on a classification of violent vs. non-violent descriptions.
+
+### Conclusion
+
 ✔ Netflix prioritizes movies over TV shows, favoring high-engagement genres like drama, documentary, and comedy.
 ✔ The U.S., India, and the U.K. drive Netflix’s content supply, influencing global streaming trends.
 ✔ Short-form content dominates, reinforcing Netflix’s binge-watch culture and quick engagement strategy.
