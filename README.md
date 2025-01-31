@@ -325,5 +325,6 @@ WHERE
 ✔ Netflix's content decisions align with audience retention strategies, favoring crime, action, and thrillers to maintain viewer interest.
 
 
-This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+
+**This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.**
 
