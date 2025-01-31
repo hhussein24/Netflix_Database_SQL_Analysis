@@ -18,20 +18,20 @@ This project demonstrates my ability to work with real-world datasets, uncover t
 
 ## Objectives
 
-###Content Distribution & Trends
+### Content Distribution & Trends
 
 - Track movie vs. TV show distribution and shifting content trends over time.
 - Analyze content growth since 2010, highlighting peak production years.
 - Identify top-producing countries and their share of Netflix’s library.
 
-###Genre & Audience Insights
+### Genre & Audience Insights
 
 - Determine the most popular genres by region.
 - Examine content ratings to map audience segmentation.
 - Compare documentary vs. non-documentary content distribution.
 
-**Content Duration & Viewing Experience
-**
+### Content Duration & Viewing Experience
+
   - Analyze movie runtimes and TV show season counts.
 - Identify duration outliers (shortest/longest content).
 - Assess runtime trends by genre.
