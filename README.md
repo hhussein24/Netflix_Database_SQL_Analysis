@@ -1,4 +1,4 @@
-# Netflix_Database_SQL_Analysis
+# Netflix Database SQL Analysis
 
 ## Overview
 This project is designed to demonstrate my expertise in SQL by analyzing Netflix's content library using advanced database queries and analytical techniques. Through this analysis, I showcase:
